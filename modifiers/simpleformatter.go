@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nic0lae/golog/contracts"
+	"github.com/dispatchlabs/golog/contracts"
 )
 
 type SimpleFormatterLogger struct {

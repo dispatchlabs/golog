@@ -3,7 +3,7 @@ package modifiers
 import (
 	"time"
 
-	"github.com/nic0lae/golog/contracts"
+	"github.com/dispatchlabs/golog/contracts"
 )
 
 type DefaultLogger struct {

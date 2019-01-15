@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nic0lae/golog/contracts"
+	"github.com/dispatchlabs/golog/contracts"
 )
 
 type InmemoryLogger struct {

@@ -3,7 +3,7 @@ package persisters
 import (
 	"os"
 
-	"github.com/nic0lae/golog/contracts"
+	"github.com/dispatchlabs/golog/contracts"
 )
 
 type FileLogger struct {

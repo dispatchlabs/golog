@@ -1,7 +1,7 @@
 package modifiers
 
 import (
-	"github.com/nic0lae/golog/contracts"
+	"github.com/dispatchlabs/golog/contracts"
 )
 
 type MultiLogger struct {

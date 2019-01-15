@@ -1,8 +1,8 @@
 package maing
 
 import (
-	"github.com/nic0lae/golog/contracts"
-	"github.com/nic0lae/golog/modifiers"
+	"github.com/dispatchlabs/golog/contracts"
+	"github.com/dispatchlabs/golog/modifiers"
 )
 
 func NewLogger(logger contracts.Logger) contracts.Logger {
